@@ -1,4 +1,4 @@
-![Desing and Development ](https://www.wisebiztech.com/wp-content/uploads/2017/05/web-developer-banner.jpg)
+![Desing and Development ](https://cdn.pixabay.com/photo/2021/06/07/05/39/networking-6317006_960_720.jpg)
 ### Frank Mperwe 
 I am Frank from Uganda and I do content on design and development. 
 # Skills and Experience 
