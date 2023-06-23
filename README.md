@@ -16,9 +16,6 @@ I am Frank, a passionate FrontEnd| BackEnd developer from Uganda,
 
 <a href="https://github.com/mperwe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mperwe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="https://github.com/mperwe/mperwe/edit/main/README.md"/></a> 
 
-
-<a href="https://github.com/mperwe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
-
 # Examples of work
 <img src ="web.jpg" width="200" > <img src ="The-15-Invaluable-Laws-of-Growth-NuriaKenya.jpg" width ="90"> <br>
 
