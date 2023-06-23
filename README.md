@@ -1,11 +1,8 @@
-### Hi there 👋, Frank Mperwe 
-#### Desing and Development 
 ![Desing and Development ](https://www.wisebiztech.com/wp-content/uploads/2017/05/web-developer-banner.jpg)
-
+### Frank Mperwe 
 I am Frank from Uganda and I do content on design and development. 
-
-Skills: HTML / CSS / JS / REACT
-
+# Skills and Experience 
+-HTML, CSS, JS
 - 🔭 I’m currently working on Coding Projects 
 
 
