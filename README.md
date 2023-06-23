@@ -12,7 +12,7 @@ I am Frank, a passionate FrontEnd| BackEnd developer from Uganda,
 💻 HTML <BR>
 📱 CSS <br>
 📳 JS <br>
-📕 15 The 15 Invaluable Laws of Growth by John C Maxwell
+📕 The 15 Invaluable Laws of Growth by John C Maxwell
 
 <a href="https://github.com/mperwe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mperwe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="https://github.com/mperwe/mperwe/edit/main/README.md"/></a> 
 
