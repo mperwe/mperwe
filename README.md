@@ -1,5 +1,4 @@
-<img src ="web.jpg" width="500" >
-![Desing and Development ]()
+![Desing and Development ](https://resumewritinglab.com/wp-content/uploads/2017/04/sales-_-marketing-_growth-1.png)
 ### Frank Mperwe 
 I am Frank from Uganda and I do content on design and development. 
 # Skills and Experience 
