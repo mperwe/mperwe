@@ -4,7 +4,7 @@
 I am Frank, a passionate FrontEnd| BackEnd developer from Uganda,
 
 💼 FrontEnd Developer at [Kanzu Code](https://kanzucode.com/) <BR>
-📈 Built github-readme-stats,and more, **50m+** hits • **31K** stars on GitHub <BR>
+📈 Built github-readme-stats,and more, **1k+** hits • **0.1K** stars on GitHub <BR>
 ❤️ Coding is a Passion.<BR>
 💬 Ask me about anything [here](https://github.com/mperwe/mperwe/issues) 
 
