@@ -4,15 +4,25 @@
 I am Frank, a passionate FrontEnd| BackEnd developer from Uganda,
 
 💼 FrontEnd Developer at [Kanzu Code](https://kanzucode.com/) <BR>
-📈 Built github-readme-stats,and more, **0.001+** hits • **0.001+** stars on GitHub <BR>
+📈 Built Github-readme-stats,and more, **0.001+** hits • **0.001+** stars on GitHub <BR>
 ❤️ Coding is a Passion.<BR>
 💬 Ask me about anything [here](https://github.com/mperwe/mperwe/issues) 
 
 # Skills and Experience
 💻 HTML <BR>
 📱 CSS <br>
-📳 JS <br>
+📳 JS <be>
+📳 REACT <br>
 📕 The 15 Invaluable Laws of Growth by John C Maxwell
+
+# TASK ASSIGNED And competed 
+- GitHub Bio
+- Creating a Task Management Application
+- Designing my First Palindrome
+- Debugging Dog-Guide App
+# Current Project 
+-SOCIAL IMPACT PROJECT
+-Designing a Volunteer-Match Application
 
 <a href="https://github.com/mperwe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mperwe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="https://github.com/mperwe/mperwe/edit/main/README.md"/></a> 
 
