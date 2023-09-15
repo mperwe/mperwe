@@ -1,4 +1,4 @@
-![Desing and Development ](https://webespire.com/public/images/page_slider/Mobile-Application-Technology.png)
+
 
 ### Frank Mperwe 
 I am Frank, a passionate FrontEnd| BackEnd developer from Uganda,
