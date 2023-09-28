@@ -3,7 +3,7 @@
 ### Frank Mperwe 
 I am Frank, a passionate FrontEnd | BackEnd developer from Uganda,
 
-💼 FrontEnd Developer at [Kanzu Code](https://kanzucode.com/) <BR>
+💼 Front|BackEnd Developer at [Kanzu Code](https://kanzucode.com/) <BR>
 📈 Built Github-readme-stats,and more, **0.001+** hits • **0.001+** stars on GitHub <BR>
 ❤️ Coding is a Passion.<BR>
 💬 Ask me about anything [here](https://github.com/mperwe/mperwe/issues) 
@@ -11,8 +11,7 @@ I am Frank, a passionate FrontEnd | BackEnd developer from Uganda,
 # Skills and Experience
 💻 HTML <BR>
 📱 CSS <br>
-📳 JS <be>
-📳 REACT <br>
+📳 JS <be> React | Node Js |
 📕 The 15 Invaluable Laws of Growth by John C Maxwell
 
 # TASK ASSIGNED And competed 
