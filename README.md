@@ -12,16 +12,16 @@ I am Frank, a passionate FrontEnd | BackEnd developer from Uganda,
 💻 HTML <BR>
 📱 CSS <br>
 📳 JS <be> React | Node Js |
-📕 The 15 Invaluable Laws of Growth by John C Maxwell
 
-# TASK ASSIGNED And competed 
-- GitHub Bio
-- Creating a Task Management Application
-- Designing my First Palindrome
+
+# Completed task And competed 
+- Task Management Application
+- First Palindrome
 - Debugging Dog-Guide App
+- Volunteer-Match Application
 # Current Project 
 -SOCIAL IMPACT PROJECT
--Designing a Volunteer-Match Application
+
 
 <a href="https://github.com/mperwe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mperwe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="https://github.com/mperwe/mperwe/edit/main/README.md"/></a> 
 
