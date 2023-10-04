@@ -14,7 +14,7 @@ I am Frank, a passionate FrontEnd | BackEnd developer from Uganda,
 📳 JS <be> React | Node Js |
 
 
-# Completed task And competed 
+# Completed tasks
 - Task Management Application
 - First Palindrome
 - Debugging Dog-Guide App
