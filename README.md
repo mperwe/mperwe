@@ -9,9 +9,6 @@ I am Frank, a passionate FrontEnd | BackEnd developer from Uganda,
 💬 Ask me about anything [here](https://github.com/mperwe/mperwe/issues) 
 
 # Skills and Experience
-💻 HTML <BR>
-📱 CSS <br>
-📳 JS <be> React | Node Js |
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,nodejs,postgres,postman,visualstudio)](https://skillicons.dev)
 
