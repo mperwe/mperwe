@@ -13,6 +13,7 @@ I am Frank, a passionate FrontEnd | BackEnd developer from Uganda,
 📱 CSS <br>
 📳 JS <be> React | Node Js |
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # Completed tasks
 - Task Management Application
