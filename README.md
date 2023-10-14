@@ -3,8 +3,8 @@
 ### Frank Mperwe 
 I am Frank, a passionate FrontEnd | BackEnd developer from Uganda,
 
-<img align="left" width="47%" src="http://github-readme-stats.vercel.app/api?usename=mperwe&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="http://github-readme-stats.vercel.app/api/top-langs/usename=mperwe&layout=compact"/>
+<img align="left" width="47%" src="https://github.com/mperwe/mperwe/edit/main/README.md&show_icons=true&theme=radical"/>
+
 
 
 💼 Front|BackEnd Developer at [Kanzu Code](https://kanzucode.com/) <BR>
